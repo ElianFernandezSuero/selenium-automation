@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af7abc3f-f0b1-4e6f-8504-d68d5b412035" name="Changes" comment="All Changes">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test Results - C__Users_erf20_IdeaProjects_selenium-automation_testng_xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/CheckoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/InventoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/seleniumAutomation/tests/CartTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/seleniumAutomation/tests/CheckoutTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/seleniumAutomation/tests/ErrorUserTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/seleniumAutomation/tests/InventoryTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/seleniumAutomation/tests/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/seleniumAutomation/tests/LogoutTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/seleniumAutomation/tests/ProblemUserTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/seleniumAutomation/utils/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2uPdjyCBgHvIW2L7R8XokXrhjQx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.selenium-automation [clean].executor": "Run",
+    "Maven.selenium-automation [compile].executor": "Run",
+    "Maven.selenium-automation [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
+    "Maven.selenium-automation [org.apache.maven.plugins:maven-compiler-plugin:3.13.0:compile].executor": "Run",
+    "Maven.selenium-automation [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.C:/Users/erf20/IdeaProjects/selenium-automation/testng.xml.executor": "Run",
+    "TestNG.CheckoutTest.executor": "Run",
+    "TestNG.CheckoutTests.testCheckoutWithoutInfo.executor": "Run",
+    "TestNG.ErrorUserTests.executor": "Run",
+    "TestNG.ErrorUserTests.testAgregarMasDeDosArticulosAlCarrito.executor": "Run",
+    "TestNG.ErrorUserTests.testLastNameNoPermiteIngresarValor.executor": "Run",
+    "TestNG.ErrorUserTests.testRemoveOneArt.executor": "Run",
+    "TestNG.ErrorUserTests.testRemoverUnArticuloDelCarrito.executor": "Run",
+    "TestNG.InventoryTests.testInventoryLoad.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
+    "TestNG.LogoutTests.executor": "Run",
+    "TestNG.LogoutTests.testLogout.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/erf20/IdeaProjects/selenium-automation/src/test/java",
+    "last_opened_file_path": "C:/Users/ElianRFS/Desktop/selenium-automation"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\erf20\IdeaProjects\selenium-automation\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/erf20/IdeaProjects/selenium-automation/testng.xml">
+    <configuration name="C:/Users/erf20/IdeaProjects/selenium-automation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckoutTests.testCheckoutWithoutInfo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seleniumAutomation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.seleniumAutomation.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumAutomation.tests.CheckoutTests" />
+      <option name="METHOD_NAME" value="testCheckoutWithoutInfo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErrorUserTests.testRemoveOneArt" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seleniumAutomation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.seleniumAutomation.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumAutomation.tests.ErrorUserTests" />
+      <option name="METHOD_NAME" value="testRemoveOneArt" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryTests.testInventoryLoad" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seleniumAutomation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.seleniumAutomation.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumAutomation.tests.InventoryTests" />
+      <option name="METHOD_NAME" value="testInventoryLoad" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogoutTests.testLogout" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seleniumAutomation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.seleniumAutomation.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumAutomation.tests.LogoutTests" />
+      <option name="METHOD_NAME" value="testLogout" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/erf20/IdeaProjects/selenium-automation/testng.xml" />
+        <item itemvalue="TestNG.LogoutTests.testLogout" />
+        <item itemvalue="TestNG.InventoryTests.testInventoryLoad" />
+        <item itemvalue="TestNG.ErrorUserTests.testRemoveOneArt" />
+        <item itemvalue="TestNG.CheckoutTests.testCheckoutWithoutInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af7abc3f-f0b1-4e6f-8504-d68d5b412035" name="Changes" comment="" />
+      <created>1742154282702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742154282702</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Changes" />
+  </component>
+</project>
